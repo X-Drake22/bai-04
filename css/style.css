@@ -1,0 +1,40 @@
+.color-red{
+    color: red;;
+}
+#color-green{
+    color: green;
+}
+.background-green{
+    background-color: green;
+    width: 200px;
+    height: 100px;
+}
+.background-images{
+    background-image: url("28tech.jpg");
+    width: 100%;
+    height: 200px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.box-green{
+    background-color: green;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    border: 5px solid #000;
+}
+.box-red{
+    background-color: red;
+    color: white;
+    padding: 30px;
+    text-align: right;
+    margin-top: 20px;
+    border: 10px dashed #CCCCCC;
+    background-clip: padding-box;
+}
+.fonts{
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
